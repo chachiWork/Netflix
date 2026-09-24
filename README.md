@@ -1,5 +1,5 @@
 # Netflix Movies and TV shows Data Analysis using SQL
-## objective 
+## Objective 
  - Analyze the distribution of content types (movies vs TV shows).
  - Identify the most common ratings for movies and TV shows.
  - List and analyze content based on release years, countries, and durations.
